@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_search"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:orderInCategory="100"
+        android:title="Home" />
+    <item
+        android:id="@+id/action_settings"
+        android:icon="@drawable/ic_search_black_24dp"
+        android:orderInCategory="200"
+        android:title="Search" />
+    <item
+        android:id="@+id/action_map"
+        android:icon="@drawable/ic_location_on_black_24dp"
+        android:orderInCategory="250"
+        android:title="Search" />
+    <item
+        android:id="@+id/action_navigation"
+        android:icon="@drawable/ic_notifications_none_black_24dp"
+        android:orderInCategory="300"
+        android:title="Notification" />
+    <item
+        android:id="@+id/action_navigation2"
+        android:icon="@drawable/ic_bookmark_black_24dp"
+        android:orderInCategory="400"
+        android:title="Mark" />
+</menu>

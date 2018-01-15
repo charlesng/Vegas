@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="primary">#FFFFFF</color>
+    <color name="primary_dark">#000000</color>
+    <color name="accent">#666666</color>
+    <color name="windowBackground">#ededed</color>
+    <color name="theme">#42b72a</color>
+    <color name="fab_bg">@color/theme</color>
+</resources>
